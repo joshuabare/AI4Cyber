@@ -17,3 +17,9 @@ and the fact through the evaluate match function to check which rule should be t
 known facts from the user and apply the if then rules to the conditions to see which ones match the facts 
 and we continue until no new rules can fire.
 <img width="443" height="407" alt="Screenshot 2026-02-02 at 1 04 22 PM" src="https://github.com/user-attachments/assets/0ec6add9-0d8b-4dd6-b276-fb929d96d089" />
+
+
+<img width="517" height="481" alt="Screenshot 2026-02-02 at 1 10 28 PM" src="https://github.com/user-attachments/assets/c0409b69-1802-4beb-9ea5-635c70deae1f" />
+
+<img width="602" height="428" alt="Screenshot 2026-02-02 at 1 12 38 PM" src="https://github.com/user-attachments/assets/61b5e6d6-2af8-452d-a7b6-7c701e8e264d" />
+
